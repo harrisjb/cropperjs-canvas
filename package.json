@@ -1,5 +1,5 @@
 {
-  "name": "cropperjs",
+  "name": "cropperjs-canvas",
   "description": "JavaScript image cropper.",
   "version": "1.6.0",
   "main": "dist/cropper.common.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fengyuanchen/cropperjs.git"
+    "url": "git+https://github.com/harrisjb/cropperjs-canvas.git"
   },
   "keywords": [
     "image",
@@ -54,14 +54,14 @@
     "web"
   ],
   "author": {
-    "name": "Chen Fengyuan",
-    "url": "https://chenfengyuan.com/"
+    "name": "Joshua Harris",
+    "url": "https://github.com/harrisjb"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fengyuanchen/cropperjs/issues"
+    "url": "https://github.com/harrisjb/cropperjs-canvas/issues"
   },
-  "homepage": "https://fengyuanchen.github.io/cropperjs",
+  "homepage": "https://github.com/harrisjb/cropperjs-canvas",
   "devDependencies": {
     "@babel/core": "^7.22.11",
     "@babel/preset-env": "^7.22.10",
